@@ -1,7 +1,7 @@
 # -*- encoding: utf-8 -*-
 
 Gem::Specification.new do |s|
-  s.name = 'crystal'
+  s.name = 'crystal-intel'
   s.version = '0.0.1'
 
   s.authors = ['Torsten Ruger']
@@ -11,7 +11,7 @@ Gem::Specification.new do |s|
   s.homepage = 'https://github.com/ruby-in-ruby/crystal'
   s.license = 'MIT'
   s.require_paths = ['lib']
-  s.summary = 'Hey crystal, what do you want to be when you grow up:  I like pink and red, i wanna be a ruby'  
+  s.summary = 'Implement the crystal vm in Intel opcodes (integration not done)'  
   
-  s.add_dependency 'parslet', '~> 1.6.1'
+  s.add_dependency 'crystal', '~> 0.0.1'
 end
