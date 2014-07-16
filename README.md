@@ -1,4 +1,4 @@
-sapphire-intel
+kide-intel
 =============
 
-Implement the sapphire vm in Intel opcodes (integration not done)
+Implement the kide vm in Intel opcodes (integration not done)
