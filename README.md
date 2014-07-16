@@ -1,4 +1,4 @@
-crystal-intel
+sapphire-intel
 =============
 
-Implement the crystal vm in Intel opcodes (integration not done)
+Implement the sapphire vm in Intel opcodes (integration not done)
