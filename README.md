@@ -1,4 +1,4 @@
-kide-intel
+salama-intel
 =============
 
-Implement the kide vm in Intel opcodes (integration not done)
+Implement the salama vm in Intel opcodes (integration not done)
