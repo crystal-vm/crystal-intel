@@ -1,11 +1,11 @@
 GIT
-  remote: https://github.com/salama-vm/salama-reader.git
+  remote: https://github.com/salama/salama-reader.git
   revision: 040b8423333a16d7d45e30cfd8f4987745e6cf55
   specs:
     salama-reader (0.1.0)
 
 GIT
-  remote: https://github.com/salama-vm/salama.git
+  remote: https://github.com/salama/salama.git
   revision: 2044a3e994829cd7a8b8aea49734d23152ea221b
   specs:
     salama (0.0.1)
